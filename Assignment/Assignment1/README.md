@@ -1,6 +1,6 @@
 **AI6126 Advanced Computer Vision** 
 **Project 1: CelebAMask Face Parsing**
-
+</br></br>
 The code of this project was created and tested on Google Colab
 The submitted files include: 
 - PDF Report
@@ -11,7 +11,7 @@ The submitted files include:
 - Face_Parsing_v3.ipynb: code for the model build, training and testing
 - evaluate.ipynb: code for validation result evaluation
 - ReadMe.txt: an instruction of the submitted files
-
+</br></br>
 Base Environment:
 - The training and testing process were running on Google Colab
   Below are the packages needed: 
@@ -24,7 +24,7 @@ Base Environment:
   - MatPlotLib
   - Numpy
   - PIL
-  
+</br></br>
 Files Directory (in Colab): 
 - Training Images: /content/drive/MyDrive/Colab Notebooks/AI6126_ACV/Face_Parsing/data/CelebAMaskHQ/train/train_image
 - Training Masks: /content/drive/MyDrive/Colab Notebooks/AI6126_ACV/Face_Parsing/data/CelebAMaskHQ/train/train_mask
