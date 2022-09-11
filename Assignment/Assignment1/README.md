@@ -13,7 +13,7 @@ The submitted files include:
 - ReadMe.txt: an instruction of the submitted files
 
 
-Base Environment:
+**Base Environment:**
 - The training and testing process were running on Google Colab
   Below are the packages needed: 
   - condacolab
@@ -27,7 +27,7 @@ Base Environment:
   - PIL
 
 
-Files Directory (in Colab): 
+**Files Directory (in Colab): **
 - Training Images: /content/drive/MyDrive/Colab Notebooks/AI6126_ACV/Face_Parsing/data/CelebAMaskHQ/train/train_image
 - Training Masks: /content/drive/MyDrive/Colab Notebooks/AI6126_ACV/Face_Parsing/data/CelebAMaskHQ/train/train_mask
 - Validation Images: /content/drive/MyDrive/Colab Notebooks/AI6126_ACV/Face_Parsing/data/CelebAMaskHQ/val/val_image
