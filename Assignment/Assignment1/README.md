@@ -14,8 +14,8 @@ The submitted files include:
 
 
 **Base Environment:**
-The training and testing process were running on Google Colab
-Below are the packages needed: 
+</br>The training and testing process were running on Google Colab
+</br>Below are the packages needed: 
   - condacolab
   - PyTorch 1.6.0
   - torchvision
